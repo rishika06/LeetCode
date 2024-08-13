@@ -18,6 +18,7 @@
 | [0283-move-zeroes](https://github.com/rishika06/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/rishika06/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rishika06/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0898-transpose-matrix](https://github.com/rishika06/LeetCode/tree/master/0898-transpose-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,11 +73,13 @@
 | [0054-spiral-matrix](https://github.com/rishika06/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/rishika06/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rishika06/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0898-transpose-matrix](https://github.com/rishika06/LeetCode/tree/master/0898-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/rishika06/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/rishika06/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0898-transpose-matrix](https://github.com/rishika06/LeetCode/tree/master/0898-transpose-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
