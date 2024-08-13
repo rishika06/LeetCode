@@ -13,6 +13,7 @@
 | [0075-sort-colors](https://github.com/rishika06/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/rishika06/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/rishika06/LeetCode/tree/master/0189-rotate-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/rishika06/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/rishika06/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rishika06/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/rishika06/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -37,6 +38,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/rishika06/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/rishika06/LeetCode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -65,9 +67,14 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/rishika06/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/rishika06/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/rishika06/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/rishika06/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/rishika06/LeetCode/tree/master/0059-spiral-matrix-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/rishika06/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
