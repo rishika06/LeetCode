@@ -17,6 +17,7 @@
 | [0268-missing-number](https://github.com/rishika06/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rishika06/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/rishika06/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0780-max-chunks-to-make-sorted](https://github.com/rishika06/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/rishika06/LeetCode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/rishika06/LeetCode/tree/master/0268-missing-number) |
+| [0780-max-chunks-to-make-sorted](https://github.com/rishika06/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -58,10 +60,12 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rishika06/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0780-max-chunks-to-make-sorted](https://github.com/rishika06/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rishika06/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0780-max-chunks-to-make-sorted](https://github.com/rishika06/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 ## Matrix
 |  |
 | ------- |
@@ -77,4 +81,8 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/rishika06/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+## Greedy
+|  |
+| ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/rishika06/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 <!---LeetCode Topics End-->
