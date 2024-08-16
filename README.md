@@ -20,6 +20,7 @@
 | [0268-missing-number](https://github.com/rishika06/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rishika06/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/rishika06/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/rishika06/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rishika06/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0898-transpose-matrix](https://github.com/rishika06/LeetCode/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/rishika06/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -49,6 +50,7 @@
 | [0162-find-peak-element](https://github.com/rishika06/LeetCode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rishika06/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/rishika06/LeetCode/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/rishika06/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/rishika06/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Bit Manipulation
 |  |
