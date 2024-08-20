@@ -43,6 +43,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/rishika06/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/rishika06/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/rishika06/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rishika06/LeetCode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -64,6 +65,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/rishika06/LeetCode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/rishika06/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/rishika06/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rishika06/LeetCode/tree/master/0268-missing-number) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rishika06/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 ## Dynamic Programming
@@ -102,4 +104,8 @@
 |  |
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/rishika06/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/rishika06/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
