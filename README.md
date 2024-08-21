@@ -15,6 +15,7 @@
 | [0054-spiral-matrix](https://github.com/rishika06/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/rishika06/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/rishika06/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/rishika06/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/rishika06/LeetCode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/rishika06/LeetCode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/rishika06/LeetCode/tree/master/0189-rotate-array) |
@@ -61,6 +62,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/rishika06/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/rishika06/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/rishika06/LeetCode/tree/master/0268-missing-number) |
 ## Sorting
@@ -117,4 +119,5 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/rishika06/LeetCode/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/rishika06/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
