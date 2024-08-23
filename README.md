@@ -32,6 +32,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/rishika06/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rishika06/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0898-transpose-matrix](https://github.com/rishika06/LeetCode/tree/master/0898-transpose-matrix) |
+| [0907-koko-eating-bananas](https://github.com/rishika06/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/rishika06/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Two Pointers
 |  |
@@ -66,6 +67,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/rishika06/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/rishika06/LeetCode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rishika06/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0907-koko-eating-bananas](https://github.com/rishika06/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/rishika06/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Bit Manipulation
 |  |
