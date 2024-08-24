@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishika06/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rishika06/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rishika06/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0036-valid-sudoku](https://github.com/rishika06/LeetCode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/rishika06/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/rishika06/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/rishika06/LeetCode/tree/master/0042-trapping-rain-water) |
@@ -56,6 +57,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/rishika06/LeetCode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rishika06/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/rishika06/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/rishika06/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/rishika06/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rishika06/LeetCode/tree/master/0242-valid-anagram) |
@@ -108,6 +110,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/rishika06/LeetCode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/rishika06/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/rishika06/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/rishika06/LeetCode/tree/master/0074-search-a-2d-matrix) |
