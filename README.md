@@ -22,6 +22,7 @@
 | [0075-sort-colors](https://github.com/rishika06/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/rishika06/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/rishika06/LeetCode/tree/master/0090-subsets-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rishika06/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/rishika06/LeetCode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/rishika06/LeetCode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/rishika06/LeetCode/tree/master/0189-rotate-array) |
@@ -93,6 +94,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rishika06/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rishika06/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
 | ------- |
