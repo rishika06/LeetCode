@@ -30,6 +30,7 @@
 | [0162-find-peak-element](https://github.com/rishika06/LeetCode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/rishika06/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/rishika06/LeetCode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/rishika06/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rishika06/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/rishika06/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rishika06/LeetCode/tree/master/0283-move-zeroes) |
@@ -153,4 +154,8 @@
 | [0051-n-queens](https://github.com/rishika06/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/rishika06/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/rishika06/LeetCode/tree/master/0090-subsets-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/rishika06/LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
