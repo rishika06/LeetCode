@@ -26,6 +26,7 @@
 | [0078-subsets](https://github.com/rishika06/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/rishika06/LeetCode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishika06/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/rishika06/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/rishika06/LeetCode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/rishika06/LeetCode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/rishika06/LeetCode/tree/master/0189-rotate-array) |
@@ -63,6 +64,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rishika06/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/rishika06/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/rishika06/LeetCode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/rishika06/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/rishika06/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rishika06/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rishika06/LeetCode/tree/master/0268-missing-number) |
@@ -158,4 +160,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/rishika06/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/rishika06/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
