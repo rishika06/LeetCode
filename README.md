@@ -109,6 +109,7 @@
 | [0042-trapping-rain-water](https://github.com/rishika06/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/rishika06/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishika06/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/rishika06/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Stack
 |  |
 | ------- |
@@ -151,6 +152,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rishika06/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/rishika06/LeetCode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/rishika06/LeetCode/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/rishika06/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/rishika06/LeetCode/tree/master/0242-valid-anagram) |
 ## Backtracking
 |  |
@@ -164,6 +166,7 @@
 | [0078-subsets](https://github.com/rishika06/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/rishika06/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/rishika06/LeetCode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/rishika06/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Prefix Sum
 |  |
 | ------- |
