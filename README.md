@@ -24,6 +24,7 @@
 | [0074-search-a-2d-matrix](https://github.com/rishika06/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/rishika06/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/rishika06/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/rishika06/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/rishika06/LeetCode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishika06/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/rishika06/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -125,6 +126,7 @@
 | [0054-spiral-matrix](https://github.com/rishika06/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/rishika06/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/rishika06/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/rishika06/LeetCode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rishika06/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/rishika06/LeetCode/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/rishika06/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -148,6 +150,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rishika06/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/rishika06/LeetCode/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/rishika06/LeetCode/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/rishika06/LeetCode/tree/master/0242-valid-anagram) |
 ## Backtracking
 |  |
@@ -159,6 +162,7 @@
 | [0047-permutations-ii](https://github.com/rishika06/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/rishika06/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/rishika06/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/rishika06/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/rishika06/LeetCode/tree/master/0090-subsets-ii) |
 ## Prefix Sum
 |  |
