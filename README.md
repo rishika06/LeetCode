@@ -51,6 +51,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishika06/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/rishika06/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/rishika06/LeetCode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/rishika06/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/rishika06/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/rishika06/LeetCode/tree/master/0283-move-zeroes) |
 ## Math
@@ -152,6 +153,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rishika06/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/rishika06/LeetCode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/rishika06/LeetCode/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/rishika06/LeetCode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/rishika06/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/rishika06/LeetCode/tree/master/0242-valid-anagram) |
 ## Backtracking
