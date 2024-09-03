@@ -64,6 +64,7 @@
 | [0066-plus-one](https://github.com/rishika06/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/rishika06/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/rishika06/LeetCode/tree/master/0189-rotate-array) |
+| [0263-ugly-number](https://github.com/rishika06/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/rishika06/LeetCode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
